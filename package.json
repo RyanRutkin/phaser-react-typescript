@@ -1,5 +1,6 @@
 {
   "name": "phaser-react-typescript",
+  "author": "Ryan Rutkin",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
